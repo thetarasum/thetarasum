@@ -46,8 +46,8 @@
 		<div class="container">
 			<div class="menu">
 				<a href="index.php" class="mr">Hello world!</a>
-				<a href="Lorem_ipsum.php" class="mr">Lorem ipsum</a>
-				<a href="Dolor_sit.php">Dolor sit</a>
+				<a href="lorem_ipsum.php" class="mr">Lorem ipsum</a>
+				<a href="dolor_sit.php">Dolor sit</a>
 				
 			</div>
 			<div class="content">

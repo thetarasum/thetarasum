@@ -44,8 +44,8 @@
 		<div class="container">
 			<div class="menu">
 				<a href="index.php" class="mr">Hello world!</a>
-				<a href="Dolor_sit.php" class="mr">Dolor sit</a>
-				<a href="Amet.php">Amet</a>
+				<a href="dolor_sit.php" class="mr">Dolor sit</a>
+				<a href="amet.php">Amet</a>
 				
 			</div>
 			<div class="content">

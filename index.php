@@ -69,9 +69,9 @@
 		<br>
 		<div class="container">
 			<div class="menu">
-				<a href="Lorem_ipsum.php" class="mr">Lorem ipsum</a>
-				<a href="Dolor_sit.php" class="mr">Dolor sit</a>
-				<a href="Amet.php">Amet</a>				
+				<a href="lorem_ipsum.php" class="mr">Lorem ipsum</a>
+				<a href="dolor_sit.php" class="mr">Dolor sit</a>
+				<a href="amet.php">Amet</a>				
 			</div>
 			<div class="content">
 				<img src="docs/image/mosc.fw.png" class="mosc">
